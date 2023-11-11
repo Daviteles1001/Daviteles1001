@@ -20,6 +20,6 @@
  <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  </div><br/>
 
-## Link para o Portfolio 🫡🎖️
+## Link para o Portfolio 🫡🎖️ 
 [![Portfolio]( https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://daviteles1001.github.io/Portfolio/)
 
